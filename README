@@ -1,1 +1,21 @@
-Readme coming soon...
+Instructions
+------------
+
+Creating Time Lapse Images
+--------------------------
+
+Step 1.) Click Record and select a destination. The image files will be saved at raw-images-{UNIXTIME}
+
+Step 2.) Choose a time interval between snapshots.
+
+Step 3.) Confirm and begin recording.
+
+Step 4.) When finished, close application
+
+
+Creating A Video
+----------------
+
+Step 1.) Click Create Video and select the folder containing your image files
+
+Step 2.) Enjoy. :)
